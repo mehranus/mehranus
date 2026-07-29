@@ -1,25 +1,151 @@
-<h1 align="center">Hi 👋, I'm mehran feriduni</h1>
-<h3 align="center">A passionate back-end developer from Iran</h3>
+<h1 align="center">Hi 👋, I'm Mehran Feriduni</h1>
+<h3 align="center">Backend Developer | Node.js • NestJS • TypeScript • Distributed Systems</h3>
 
-<img align = "right" alt="showme" width= "500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehranferiduny&label=Profile%20views&color=58026a&style=flat" alt="mehranferiduny" /> </p>
-
-
-
-  
--  🌱 I’m currently learning Microservices
-
-- 💬 Ask me about nestjs express socket
-
-- 📫 How to reach me m3hr4nus@gmail.com
-
-- ⚡ Fun fact Programming -GYM - Football
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <img align = "left" alt="showme" width= "30" src="https://cdn.dribbble.com/users/707812/screenshots/3834870/loader-dribbble.gif"/>+989115654971
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehranus&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+
+## 🚀 About Me
+
+- 💻 Backend Developer passionate about building scalable and high-performance backend systems.
+- 🌱 Currently learning Microservices, Distributed Systems, Kubernetes & AWS
+- 🔥 Experienced with NestJS, Express, PostgreSQL, Redis, RabbitMQ, Kafka, TypeORM
+- 🏗️ Interested in System Design, Event-Driven Architecture, Clean Architecture and Performance Optimization
+- 💬 Ask me about Node.js, NestJS, Express, Redis, RabbitMQ, Kafka, TypeORM and PostgreSQL
+- 📫 Email: m3hr4nus@gmail.com
+- 📱 Phone: *(شماره داخل رزومه‌ات را اینجا قرار بده)*
+- ⚡ Fun fact: Programming • Gym • Football
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/mehranus">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:m3hr4nus@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,java" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+### Messaging
+
+<p>
+<img src="https://skillicons.dev/icons?i=rabbitmq,kafka" />
+</p>
+
+### API & ORM
+
+<p>
+<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://api.iconify.design/logos/swagger.svg" width="48"/>
+<img src="https://api.iconify.design/logos:typeorm.svg" width="48"/>
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,githubactions" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehranus&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehranus&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehranus&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mehranus&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📌 Featured Projects
+
+⭐ Hotel Booking System
+- NestJS
+- PostgreSQL
+- Redis
+- RabbitMQ
+- JWT Authentication
+- Distributed Lock
+- Clean Architecture
+
+⭐ Kafka Event Demo
+
+⭐ JWT Authentication & RBAC
+
+⭐ REST API Boilerplate
+
+⭐ Real-time Chat API
+- WebSocket
+- Socket.io
+
+⭐ Fulus
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehranus&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Microservices
+- ✅ Kubernetes
+- ✅ AWS
+- ✅ System Design
+- ✅ Contribute to Open Source
+- ✅ Land an International Backend Developer Role
