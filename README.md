@@ -16,7 +16,7 @@
 - 💬 Ask me about Node.js, NestJS, Express, Redis, RabbitMQ, Kafka, TypeORM and PostgreSQL
 - 📫 Email: m3hr4nus@gmail.com
 - 📱 Phone: +989221557321
-- ⚡ Fun fact: Programming • Gym • Football
+- ⚡ Fun fact: I enjoy solving complex backend challenges and continuously learning new technologies.
 
 ---
 
