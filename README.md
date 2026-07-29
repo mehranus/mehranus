@@ -15,7 +15,7 @@
 - 🏗️ Interested in System Design, Event-Driven Architecture, Clean Architecture and Performance Optimization
 - 💬 Ask me about Node.js, NestJS, Express, Redis, RabbitMQ, Kafka, TypeORM and PostgreSQL
 - 📫 Email: m3hr4nus@gmail.com
-- 📱 Phone: *(شماره داخل رزومه‌ات را اینجا قرار بده)*
+- 📱 Phone: +989221557321
 - ⚡ Fun fact: Programming • Gym • Football
 
 ---
@@ -27,7 +27,7 @@
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/mehran-fereiduni-dev">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
